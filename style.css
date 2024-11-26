@@ -1,0 +1,47 @@
+/* Reset */
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+
+body{
+margin:0;
+padding:0;
+background: #000 url(bg.jpg) top center no-repeat;
+font-family: 'Merriweather', serif;
+}
+
+.container{
+width: 1000px;
+margin: 0 auto;
+}
+
+.header{
+width:100%;
+padding-top: 20px;
+}
+
+.clear{
+clear: both;
+}
+
+
+.video{
+width: 853px;
+height: 480px;
+padding: 68px;
+margin: -20px 0;
+}
+
+
+h1 {
+    color:lightgray;
+    font-size:36px;
+    text-align: center;
+    margin: 5% 0 15px;
+}
+
+div.mail {
+    color:white;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 30px 0;
+}
